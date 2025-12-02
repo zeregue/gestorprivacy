@@ -1,0 +1,2 @@
+# gestorprivacy
+termos de privacidade
