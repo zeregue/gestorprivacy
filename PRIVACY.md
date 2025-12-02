@@ -85,9 +85,11 @@ Podemos atualizar esta Política de Privacidade periodicamente. Notificaremos vo
 ## Contato
 
 Para questões relacionadas à privacidade ou para exercer seus direitos, entre em contato:
-- E-mail: privacidade@exemplo.com
-- Endereço: [Seu endereço]
-- Telefone: [Seu telefone]
+- E-mail: [Inserir e-mail de contato para questões de privacidade]
+- Endereço: [Inserir endereço físico da empresa]
+- Telefone: [Inserir telefone de contato]
+
+> **Nota:** Atualize as informações de contato acima antes de usar esta política em produção.
 
 ## Conformidade Legal
 
